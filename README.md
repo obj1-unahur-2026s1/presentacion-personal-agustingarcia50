@@ -6,7 +6,7 @@
 ### Datos Personales
 - Mi nombre es: Agustin Garcia
 - Vivo en Moron
-
+![foto de perfil](./FOTODEPERFIL.JPG)
 
 ### Mis Gustos 
 - Me gusta mucho el futbol y la musica. Soy hincha de Boca y el genero que más me gusta es el rock nacional.
