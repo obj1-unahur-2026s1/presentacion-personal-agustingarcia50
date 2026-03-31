@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Agustin Garcia
+- Vivo en Moron
 
 
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+### Mis Gustos 
+-Me gusta mucho el futbol y la musica. Soy hincha de Boca y el genero que más me gusta es el rock nacional.
+-Mi banda preferida son los piojos.
+-Me gusta jugar a la play y pasar tiempo con amigos.
